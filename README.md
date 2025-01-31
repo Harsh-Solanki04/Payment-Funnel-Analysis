@@ -69,9 +69,9 @@ A significant percentage of users start the payment process but do not complete 
 
 The most common friction points include:
 
-Users failing to enter payment details correctly.
+- Users failing to enter payment details correctly.
 
-Payment processing failures from third-party vendors.
+- Payment processing failures from third-party vendors.
 
 ![image](https://github.com/user-attachments/assets/85677e46-ab45-4c63-a6e0-e798d08c792f)
 
@@ -80,6 +80,7 @@ Payment processing failures from third-party vendors.
 The error rate among users is high, indicating a need for better validation and guidance.
 
 The conversion and workflow completion rates suggest a need for process optimization.
+
 
 ### Recommendations
 
