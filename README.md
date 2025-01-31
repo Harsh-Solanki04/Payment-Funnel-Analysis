@@ -84,23 +84,23 @@ The conversion and workflow completion rates suggest a need for process optimiza
 
 ### Recommendations
 
-Improve UI/UX for the payment portal:
+- Improve UI/UX for the payment portal:
 
-Add real-time validation for credit card fields to prevent user errors.
+- Add real-time validation for credit card fields to prevent user errors.
 
-Implement clear error messages and guidance for users encountering issues.
+- Implement clear error messages and guidance for users encountering issues.
 
-Optimize third-party payment processing:
+- Optimize third-party payment processing:
 
-Investigate vendor-side failures and explore alternative payment processors.
+   - Investigate vendor-side failures and explore alternative payment processors.
 
-Implement retry mechanisms for failed transactions.
+   - Implement retry mechanisms for failed transactions.
 
-User Follow-up Strategies:
+-User Follow-up Strategies:
 
-Send automated reminders to users who started payment but did not complete it.
+   - Send automated reminders to users who started payment but did not complete it.
 
-Offer alternative payment methods to users facing issues.
+   - Offer alternative payment methods to users facing issues.
 
 ### Conclusion
 
