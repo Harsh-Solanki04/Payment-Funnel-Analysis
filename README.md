@@ -96,7 +96,7 @@ The conversion and workflow completion rates suggest a need for process optimiza
 
    - Implement retry mechanisms for failed transactions.
 
--User Follow-up Strategies:
+- User Follow-up Strategies:
 
    - Send automated reminders to users who started payment but did not complete it.
 
