@@ -1,5 +1,5 @@
 # Payment Funnel Analysis
-
+(Note- Check Payment Funnel Analysis.pdf for SQL code and discussion)
 ## Executive Summary
 
 This report analyzes the payment funnel to identify reasons for incomplete subscription payments. Through SQL-based data exploration, we assess user drop-off points, error frequencies, and conversion rates. Key findings indicate that user errors and payment processing failures are major bottlenecks. Recommendations include UI/UX improvements, better error handling, and enhanced follow-up strategies to improve payment completion rates.
